@@ -1,1 +1,1 @@
-GoFish_NTSC.bin
+GoFish_NTSC

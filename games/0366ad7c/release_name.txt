@@ -1,1 +1,1 @@
-amoeba_jump_PAL50.bin
+amoeba_jump_PAL50

@@ -1,1 +1,1 @@
-GoFish_PAL.bin
+GoFish_PAL
